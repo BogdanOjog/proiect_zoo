@@ -1,0 +1,13 @@
+# Editor / IDE
+.idea/
+*.iml
+
+# Java / Maven (Backend)
+target/
+
+# Node.js / Frontend
+node_modules/
+
+# Fișiere de sistem (Opțional, dar recomandat)
+.DS_Store
+Thumbs.db
